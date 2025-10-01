@@ -47,7 +47,7 @@ Based on the analysis, the project will deliver at least three actionable recomm
 
 ### Repository Structure
 
-/aviation-risk-analysis
+{/aviation-risk-analysis
 │
 ├── /data
 │   └── aviation_accidents.csv          # Raw dataset
@@ -62,7 +62,7 @@ Based on the analysis, the project will deliver at least three actionable recomm
 │   └── (Tableau workbook or link)     # Interactive Tableau dashboard
 │
 ├── .gitignore                         # Git ignore file
-├── README.md                         # This file
+├── README.md                         # This file}
 
 ### How to Run
  -Clone the repository.
