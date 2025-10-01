@@ -1,6 +1,7 @@
 # Aviation Risk Analysis Project
 
 ### Overview
+
 This project focuses on analyzing aviation accident data from 1962 to 2023 to identify aircraft types with the lowest risk profiles. The company is expanding into the aviation industry and needs to make informed decisions about purchasing aircraft for commercial and private operations. The primary stakeholder is the head of the new aviation division, who requires clear insights into aircraft safety to minimize operational risks and guide investment decisions. The project is situated within the aviation sector, specifically targeting risk assessment for aircraft acquisition.
 
 ### 2. Business Understanding
@@ -45,27 +46,13 @@ Based on the analysis, the project will deliver at least three actionable recomm
 - Avoid manufacturers or models with poor safety records.
 - Monitoring emerging trends in accident data to adjust risk assessments over time.
 
-### Repository Structure
+## Repository Structure
 
-'''
-/aviation-risk-analysis
-│
-├── /data
-│   └── aviation_accidents.csv          # Raw dataset
-│
-├── /notebooks
-│   └── aviation_risk_analysis.ipynb   # Jupyter Notebook with analysis
-│
-├── /presentation
-│   └── presentation.pdf                # Slide deck for stakeholders
-│
-├── /dashboard
-│   └── (Tableau workbook or link)     # Interactive Tableau dashboard
-│
-├── .gitignore                         # Git ignore file
-├── README.md                         # This file}
-'''
-### How to Run
+## Repository Structure
+/aviation-risk-analysis ├── /data │ └── aviation_accidents.csv # Raw dataset ├── /notebooks │ └── aviation_risk_analysis.ipynb # Jupyter Notebook with analysis ├── /presentation │ └── presentation.pdf # Slide deck for stakeholders ├── /dashboard │ └── (Tableau workbook or link) # Interactive Tableau dashboard ├── .gitignore # Git ignore file └── README.md # This file
+
+## How to Run
+
  -Clone the repository.
 - Ensure you have Python 3.x installed with required packages (pandas, matplotlib, seaborn).
 - Open and run the Jupyter Notebook located in /notebooks/aviation_risk_analysis.ipynb to reproduce the analysis and visualizations.
@@ -73,9 +60,11 @@ Based on the analysis, the project will deliver at least three actionable recomm
 - Explore the interactive dashboard via the link provided below.
 
 ### Interactive Dashboard
+
 Explore the interactive Tableau dashboard here:
 [Insert Tableau Public Link]
 
-### Acknowledgments
+## Acknowledgments
+
 Data sourced from the National Transportation Safety Board (NTSB).
 Analysis and visualizations created using Python (pandas, matplotlib, seaborn) and Tableau.
