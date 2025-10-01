@@ -48,8 +48,22 @@ Based on the analysis, the project will deliver at least three actionable recomm
 
 ## Repository Structure
 
-## Repository Structure
-/aviation-risk-analysis ├── /data │ └── aviation_accidents.csv # Raw dataset ├── /notebooks │ └── aviation_risk_analysis.ipynb # Jupyter Notebook with analysis ├── /presentation │ └── presentation.pdf # Slide deck for stakeholders ├── /dashboard │ └── (Tableau workbook or link) # Interactive Tableau dashboard ├── .gitignore # Git ignore file └── README.md # This file
+/aviation-risk-analysis
+│
+├── /data
+│   └── aviation_accidents.csv          # Raw dataset
+│
+├── /notebooks
+│   └── aviation_risk_analysis.ipynb   # Jupyter Notebook with analysis
+│
+├── /presentation
+│   └── presentation.pdf                # Slide deck for stakeholders
+│
+├── /dashboard
+│   └── (Tableau workbook or link)     # Interactive Tableau dashboard
+│
+├── .gitignore                         # Git ignore file
+├── README.md                         # This file
 
 ## How to Run
 
@@ -59,7 +73,7 @@ Based on the analysis, the project will deliver at least three actionable recomm
 - View the presentation slides in /presentation/presentation.pdf.
 - Explore the interactive dashboard via the link provided below.
 
-### Interactive Dashboard
+## Interactive Dashboard
 
 Explore the interactive Tableau dashboard here:
 [Insert Tableau Public Link]
