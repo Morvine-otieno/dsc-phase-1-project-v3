@@ -1,3 +1,5 @@
+# Aviation Risk Analysis Project
+
 ### Overview
 This project focuses on analyzing aviation accident data from 1962 to 2023 to identify aircraft types with the lowest risk profiles. The company is expanding into the aviation industry and needs to make informed decisions about purchasing aircraft for commercial and private operations. The primary stakeholder is the head of the new aviation division, who requires clear insights into aircraft safety to minimize operational risks and guide investment decisions. The project is situated within the aviation sector, specifically targeting risk assessment for aircraft acquisition.
 
