@@ -47,7 +47,8 @@ Based on the analysis, the project will deliver at least three actionable recomm
 
 ### Repository Structure
 
-{/aviation-risk-analysis
+'''
+/aviation-risk-analysis
 │
 ├── /data
 │   └── aviation_accidents.csv          # Raw dataset
@@ -63,7 +64,7 @@ Based on the analysis, the project will deliver at least three actionable recomm
 │
 ├── .gitignore                         # Git ignore file
 ├── README.md                         # This file}
-
+'''
 ### How to Run
  -Clone the repository.
 - Ensure you have Python 3.x installed with required packages (pandas, matplotlib, seaborn).
