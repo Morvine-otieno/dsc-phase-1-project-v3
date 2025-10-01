@@ -5,6 +5,11 @@ This project focuses on analyzing aviation accident data from 1962 to 2023 to id
 
 The company wants to enter the aviation market but is uncertain about the safety risks associated with different aircraft types. Without data-driven insights, they risk investing in high-risk models that could lead to operational losses or reputational damage.
 
+### 2.1. Stakeholders
+
+- Business stakeholders: Head of the aviation division, company executives.
+- Industry stakeholders: Airlines, regulatory bodies (e.g., FAA, NTSB), passengers.
+
 ### 3. Data Understanding
 
 The dataset originates from the National Transportation Safety Board (NTSB) and encompasses civil aviation accident records spanning from 1962 to 2023. It contains thousands of rows and includes columns such as:
