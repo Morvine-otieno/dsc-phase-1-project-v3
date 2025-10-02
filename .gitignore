@@ -1,16 +1,85 @@
-# Ignore data files (uncomment if data is large or sensitive)
-# data/*.csv
-
-# Ignore Jupyter notebook checkpoints
+# Jupyter Notebook files and checkpoints
 .ipynb_checkpoints/
+*.ipynb_checkpoints
+*.ipynb~  # Jupyter backup files
+*.ipynb_checkpoints  # Additional checkpoint patterns
 
-# Ignore Python cache files
+# Data files (uncomment if datasets are large or sensitive; otherwise, keep them in repo for reproducibility)
+# /data/*.csv
+# /data/*.xlsx
+# /data/*.json
+
+# Python cache and bytecode (common with Jupyter)
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
 
-# Ignore system files
-.DS_Store
-Thumbs.db
+# Virtual environments (if using conda or venv with Jupyter)
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+conda-env/
+.conda/
 
-# Ignore environment files (if any)
+# Environment variables (e.g., for API keys or secrets in Jupyter)
 .env
+.env.local
+.env.*.local
+
+# System and OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+thumbs.db
+*.tmp
+*.temp
+*.swp
+*~
+
+# IDE and editor files (e.g., if using VS Code with Jupyter extension)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Logs and temporary files
+*.log
+logs/
+*.db
+*.sqlite
+
+# Presentation and dashboard files (uncomment if you want to exclude large/editable files)
+# /presentation/*.pptx
+# /presentation/*.pdf  # If generated dynamically
+# /dashboard/*.twb
+# /dashboard/*.twbx
+# /dashboard/*.hyper
+
+# Output directories (if you generate exports from Jupyter)
+output/
+exports/
+figures/  # If you save plots separately 
