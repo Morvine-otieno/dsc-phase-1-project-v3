@@ -1,4 +1,4 @@
-# Aviation Risk Analysis Project
+# Aviation Risk Analysis for Aircraft Acquisition
 
 ### Overview
 
@@ -49,13 +49,13 @@ Based on the analysis, the project will deliver at least three actionable recomm
 ## Repository Structure
 
 ```bash
-📂 aviation-risk-analysis
+📂 Aviation Risk Analysis for Aircraft Acquisition
 │
 ├── 📂 data
 │   └── 📄 aviation_accidents.csv       # Raw dataset
 │
 ├── 📂 notebooks
-│   └── 📓 aviation_risk_analysis.ipynb # Jupyter Notebook with analysis
+│   └── 📓 student.ipynb # Jupyter Notebook with analysis
 │
 ├── 📂 presentation
 │   └── 📑 presentation.pdf             # Slide deck for stakeholders
