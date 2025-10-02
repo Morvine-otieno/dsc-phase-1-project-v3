@@ -49,22 +49,22 @@ Based on the analysis, the project will deliver at least three actionable recomm
 ## Repository Structure
 
 ```bash
-aviation-risk-analysis
+📂 aviation-risk-analysis
 │
-├── data/
-│   └── aviation_accidents.csv          # Raw dataset
+├── 📂 data
+│   └── 📄 aviation_accidents.csv       # Raw dataset
 │
-├── notebooks/
-│   └── aviation_risk_analysis.ipynb    # Jupyter Notebook with analysis
+├── 📂 notebooks
+│   └── 📓 aviation_risk_analysis.ipynb # Jupyter Notebook with analysis
 │
-├── presentation/
-│   └── presentation.pdf                # Slide deck for stakeholders
+├── 📂 presentation
+│   └── 📑 presentation.pdf             # Slide deck for stakeholders
 │
-├── dashboard/
-│   └── (Tableau workbook or link)      # Interactive Tableau dashboard
+├── 📂 dashboard
+│   └── 🌐 (Tableau workbook or link)   # Interactive Tableau dashboard
 │
-├── .gitignore                          # Git ignore file
-└── README.md                           # This file
+├── 📄 .gitignore                       # Git ignore file
+└── 📄 README.md                        # This file
 ```
 
 ## How to Run
