@@ -47,23 +47,22 @@ Based on the analysis, the project will deliver at least three actionable recomm
 - Monitoring emerging trends in accident data to adjust risk assessments over time.
 
 ## Repository Structure
-
 /aviation-risk-analysis
 │
 ├── /data
-│   └── aviation_accidents.csv          # Raw dataset
+│ └── aviation_accidents.csv # Raw dataset
 │
 ├── /notebooks
-│   └── aviation_risk_analysis.ipynb   # Jupyter Notebook with analysis
+│ └── aviation_risk_analysis.ipynb # Jupyter Notebook with analysis
 │
 ├── /presentation
-│   └── presentation.pdf                # Slide deck for stakeholders
+│ └── presentation.pdf # Slide deck for stakeholders
 │
 ├── /dashboard
-│   └── (Tableau workbook or link)     # Interactive Tableau dashboard
+│ └── (Tableau workbook or link) # Interactive Tableau dashboard
 │
-├── .gitignore                         # Git ignore file
-├── README.md                         # This file
+├── .gitignore # Git ignore file
+├── README.md # This file
 
 ## How to Run
 
