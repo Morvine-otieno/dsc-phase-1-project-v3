@@ -69,7 +69,7 @@ Based on the analysis, the project will deliver at least three actionable recomm
 
 ## How to Run
 
- -Clone the repository.
+- Clone the repository.
 - Ensure you have Python 3.x installed with required packages (pandas, matplotlib, seaborn).
 - Open and run the Jupyter Notebook located in /notebooks/aviation_risk_analysis.ipynb to reproduce the analysis and visualizations.
 - View the presentation slides in /presentation/presentation.pdf.
@@ -82,5 +82,5 @@ Explore the interactive Tableau dashboard here:
 
 ## Acknowledgments
 
-Data sourced from the National Transportation Safety Board (NTSB).
-Analysis and visualizations created using Python (pandas, matplotlib, seaborn) and Tableau.
+- Data sourced from the National Transportation Safety Board (NTSB).
+- Analysis and visualizations created using Python (pandas, matplotlib, seaborn) and Tableau.
