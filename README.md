@@ -65,6 +65,7 @@ aviation-risk-analysis
 │
 ├── .gitignore                          # Git ignore file
 └── README.md                           # This file
+```
 
 ## How to Run
 
