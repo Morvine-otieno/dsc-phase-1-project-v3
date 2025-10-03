@@ -54,7 +54,7 @@ Based on the analysis, the project will deliver at least three actionable recomm
 │
 ├── 📂 data
 │   └── 📄 aviation_accidents.csv       # Raw dataset
-└──└── 📄 clean_dataframe               # Clean dataset
+└──└── 📄 cleaned_dataframe               # Clean dataset
 │
 ├── 📂 notebooks
 │   └── 📓 student.ipynb # Jupyter Notebook with analysis
