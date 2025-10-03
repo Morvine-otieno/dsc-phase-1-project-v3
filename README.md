@@ -76,7 +76,7 @@ Based on the analysis, the project will deliver at least three actionable recomm
 - Open and run the Jupyter Notebook located in /notebooks/aviation_risk_analysis.ipynb to reproduce the analysis and visualizations.
   - Or view it directly on GitHub here: [Jupyter notebook](https://github.com/Morvine-otieno/dsc-phase-1-project-v3/blob/master/student.ipynb).
 - View the presentation slides in /presentation/presentation.pdf.
-  - Or download/view directly: [Presentation Link](https://github.com/Morvine-otieno/dsc-phase-1-project-v3/blob/master/presentation.pdf)  
+  - Or download/view directly: [Presentation Link](https://1drv.ms/p/c/e4cce06a4c295402/EehHdBZ5wjxDvGfLziObK0sBLRf_sqUjb7vK3BA0h-XDyA)  
 - Explore the interactive dashboard via the link provided below.
 
 ## Interactive Dashboard
