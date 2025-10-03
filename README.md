@@ -17,12 +17,12 @@ The company wants to enter the aviation market but is uncertain about the safety
 
 The dataset originates from the National Transportation Safety Board (NTSB) and encompasses civil aviation accident records spanning from 1962 to 2023. It contains thousands of rows and includes columns such as:
 
-- Event Date: Date of the accident
-- Aircraft Type: Model or category of aircraft
-- Injury Severity: Fatal, serious, minor, or none
-- Location: Where the accident occurred
-- Cause: Probable cause or contributing factors
-- Number of Fatalities: Count of deaths per incident
+- Event Date: Date of the accident.
+- Aircraft Type: Model or category of aircraft.
+- Injury Severity: Fatal, serious, minor, or none.
+- Location: Where the accident occurred.
+- Cause: Probable cause or contributing factors.
+- Number of Fatalities: Count of deaths per incident.
   
 This data provides a comprehensive view of aviation safety across decades.
 
@@ -53,6 +53,7 @@ Based on the analysis, the project will deliver at least three actionable recomm
 │
 ├── 📂 data
 │   └── 📄 aviation_accidents.csv       # Raw dataset
+└──└── 📄 clean_dataframe               # Clean dataset
 │
 ├── 📂 notebooks
 │   └── 📓 student.ipynb # Jupyter Notebook with analysis
