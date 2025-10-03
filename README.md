@@ -74,7 +74,9 @@ Based on the analysis, the project will deliver at least three actionable recomm
 - Clone the repository.
 - Ensure you have Python 3.x installed with required packages (pandas, matplotlib, seaborn).
 - Open and run the Jupyter Notebook located in /notebooks/aviation_risk_analysis.ipynb to reproduce the analysis and visualizations.
+  - Or view it directly on GitHub here: [http://localhost:8888/notebooks/student.ipynb?#Bar-chart:-Count-of-accidents-per-flight-phase]
 - View the presentation slides in /presentation/presentation.pdf.
+  - Or download/view directly: [Presentation Link](https://github.com/username/repo-name/blob/main/presentation/presentation.pdf)  
 - Explore the interactive dashboard via the link provided below.
 
 ## Interactive Dashboard
