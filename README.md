@@ -80,7 +80,7 @@ Based on the analysis, the project will deliver at least three actionable recomm
 ## Interactive Dashboard
 
 Explore the interactive Tableau dashboard here:
-[Insert Tableau Public Link]
+[https://public.tableau.com/app/profile/morvine.otieno/viz/AircraftSafetyRiskDashboard/Dashboard1?publish=yes]
 
 ## Acknowledgments
 
